@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Calender</string>
+    <string name="db_button">database</string>
+    <string name="delete">delete</string>
+    <string name="predict">predict</string>
+    <string name="makeTdata">train</string>
+    <string name="button_text">scan</string>
+    <string name="placename">place</string>
+    <string name="noUsed">未使用</string>
+    <string name="using">使用中</string>
+    <string name="room_button">room</string>
+    <string name="wifi_button">wifi</string>
+    <string name="ssid_button">ssid</string>
+    <string name="youbi">曜日</string>
+    <string name="className">講義名</string>
+    <string name="classTime">開始時刻</string>
+    <string name="register">登録</string>
+    <string name="event_button">event button</string>
+    <string name="db_menu">DB操作</string>
+    <string name="execute">実行</string>
+    <string name="search">検索</string>
+    <string name="search_data">データ検索</string>
+    <string name="state">移動状態</string>
+    <string name="predictRoom">推定結果</string>
+    <string-array name="list">
+        <item>月曜日</item>
+        <item>火曜日</item>
+        <item>水曜日</item>
+        <item>木曜日</item>
+        <item>金曜日</item>
+        <item>土曜日</item>
+    </string-array>
+</resources>

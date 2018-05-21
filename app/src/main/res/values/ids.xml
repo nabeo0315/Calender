@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="registerButton" type="id">registerButton</item>
+    <item name="get_event" type="id">get_event</item>
+    <item name="show_event" type="id">show_event</item>
+    <item name="show_date" type="id">show_date</item>
+    <item name="event_button" type="id">event_button</item>
+    <item name="show_today_event" type="id">show_today_event</item>
+    <item name="today_event" type="id">today_event</item>
+    <item name="db_menu" type="id">db_menu</item>
+    <item name="db_tv" type="id">db_tv</item>
+    <item name="input_query" type="id">input_query</item>
+    <item name="execute_query" type="id">execute_query</item>
+    <item name="predict_place" type="id">predict_place</item>
+    <item name="step_detector" type="id">step_detector</item>
+    <item name="predict_tv" type="id">predict_tv</item>
+</resources>
